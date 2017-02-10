@@ -1,0 +1,8 @@
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\bin\Debug\DIEjemplo.exe.config
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\bin\Debug\DIEjemplo.exe
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\bin\Debug\DIEjemplo.pdb
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\bin\Debug\Ninject.dll
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\bin\Debug\Ninject.xml
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\obj\Debug\DIEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\obj\Debug\DIEjemplo.exe
+C:\Users\go-puesto3\Downloads\InjectionDependency\DIExample\DIEjemplo\DIEjemplo\obj\Debug\DIEjemplo.pdb
