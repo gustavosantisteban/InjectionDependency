@@ -1,0 +1,8 @@
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\bin\Debug\EmailServices.exe.config
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\bin\Debug\EmailServices.exe
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\bin\Debug\EmailServices.pdb
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\bin\Debug\Ninject.dll
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\bin\Debug\Ninject.xml
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\obj\Debug\EmailServices.csprojResolveAssemblyReference.cache
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\obj\Debug\EmailServices.exe
+C:\Users\go-puesto3\Downloads\InjectionDependency\EmailServices\EmailServices\EmailServices\obj\Debug\EmailServices.pdb
